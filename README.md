@@ -1,4 +1,4 @@
-![logo](https://github.com/manukumardsouza/manukumardsouza/blob/main/Screenshot%202026-06-13%20144307.png)
+![logo](https://github.com/manukumardsouza/manukumardsouza/blob/main/Screenshot%202026-06-13%20144802.png)
 <h1 align="center">Hi 👋, I'm Manu kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeG42N2R2Mmp5c2FzMnYwejlpa2RoM2Juc2ExaXVhdTZ6ZndzeThweCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
